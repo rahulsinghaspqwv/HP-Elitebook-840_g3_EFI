@@ -15,4 +15,5 @@ Author - Rahul Singh.
 <br><l1>SSD                     :- Micron MTFDDAV256GB PCI m.2ssd<l1></br>
 <br><l1>Audio                   :- Conexant CX20724 HD </l1></br>
 <br><l1>Wi_Fi/Bluetooth         :- Intel Wireless-AC 8260 </l1></br>
+<br><l1>Ethernet                :- Intel l219-LM </l1></br>
 <br>
