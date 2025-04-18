@@ -4,7 +4,6 @@ This is the working EFI for HP_Elitebook_840_g3 for MacOS Monteary 12.7.3 and yo
 Author - Rahul Singh.
 </br>
 <br> Working on More EFI's Folders. </br>
-<br> This EFI is fully Working with HP_Elitebook_840_G3 for Ventura</br>
 <br>
 <br>
 <br>
