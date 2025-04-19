@@ -4,9 +4,7 @@
 <h1> SMBIOS </h1>
 In this EFI, My Machine SMBIOS is USED, So please change SMBIOS acording to your Machine or your choice. 
 <br> I am using Macbook pro(13, 1) 2016 SMBIOS for My Machine.
-<br>
-<img src="https://drive.google.com/file/d/1SSo_dHNgR83QFf1ZL98_2jW2eqGrAGzq/view?usp=drive_link" hight=100% width=100%>
-</br>
+<br>![Uploading Screenshot 2025-04-19 at 2.57.26 PM.png…]()
 <h1>Specification of My Machine is: </h1>
 <br><l1>Processor (CPU) :- Intel Core i5-6300U Dual Core 4 Thread with 3 MB Intel Smart Cache </l1>
 <br><l1>GPU                     :- Intel HD Graphics 520 (Shared Memory 8GB) </l1>
