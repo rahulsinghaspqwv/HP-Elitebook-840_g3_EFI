@@ -8,7 +8,6 @@ I am using Macbook pro(13, 1) 2016 SMBIOS for My Machine.
 # Release 
 version - 1.0 
 
-# Image Src
 ![Screenshot](https://github.com/rahulsinghaspqwv/HP-Elitebook-840_g3_EFI/blob/main/Screenshot_01_final.png)
 
 # Specification of My Machine is:
