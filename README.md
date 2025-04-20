@@ -8,6 +8,9 @@ I am using Macbook pro(13, 1) 2016 SMBIOS for My Machine.
 # Release 
 version - 1.0 
 
+# Image Src
+
+
 # Specification of My Machine is:
 * Processor (CPU) :- Intel Core i5-6300U Dual Core 4 Thread with 3 MB Intel Smart Cache 
 * GPU                     :- Intel HD Graphics 520 (Shared Memory 8GB) 
