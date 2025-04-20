@@ -35,11 +35,11 @@ After installation - please use [MountEFI](https://github.com/corpnewt/MountEFI)
 EFI. 
  
  Congratulations - You have successfully installed Mac Monterey 12.7.3 on your Machine.
- 
+
 # Credits 
 [Dortania](https://github.com/dortania) -- Opencore EFI Build
-[Opencore-simplify](https://github.com/lzhoang2801/OpCore-Simplify)
-[Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer)
-[SSDTTime](https://github.com/corpnewt/SSDTTime)
-[MountEFI](https://github.com/corpnewt/MountEFI)
+[Opencore-simplify](https://github.com/lzhoang2801/OpCore-Simplify) -- Build with ACPI tables and Hardware Report. 
+[Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) -- Generate ACPI tables and Hardware Report.
+[SSDTTime](https://github.com/corpnewt/SSDTTime) -- Generate ACPI tables (Use Linux for Better Result).
+[MountEFI](https://github.com/corpnewt/MountEFI) -- Build by Corpnewt.
 
